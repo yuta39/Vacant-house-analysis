@@ -13,7 +13,6 @@ import csv
 base_url = "http://www.fudousan.or.jp/system/"
 buy_url = "http://www.fudousan.or.jp/system/?act=ak&type=s1"
 rent_url = "http://www.fudousan.or.jp/system/?act=ak&type=s3"
-driver_path = "/Users/yuta/Documents/GitHub/Indoor-Location-System-in-Hotel-2016/Vacant-house-analysis/chromedriver"
 item_class_name = "uk-width-medium-1-3 itemBox" #トップページの空き家のclass名
 detail_url_class_name = "uk-panel uk-panel-hover cnt-detail" #詳細ページが書かれているタグのクラス
 
